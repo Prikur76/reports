@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import os
 import gspread
 import pandas as pd
